@@ -1,0 +1,80 @@
+  234  mkdir terminal commands
+  235  ls
+  236  ls -a
+  237  ls -l
+  238  ls --all
+  239  java -version
+  240  javac
+  241  env
+  242  pwd
+  243  ls .
+  244  ls ..
+  245  ls conditional/looping/
+  246  ls C:\Users\ghanashyam\Documents\Conditiona
+  247  \Users\ghanashyam\Documents\Conditional
+  248  Users\ghanashyam\Documents\Conditional
+  249  cd .
+  250  cd ..
+  251  cd ..
+  252  cd Documents
+  253  conditional
+  254  Conditinal
+  255  Conditional
+  256  cd Conditional
+  257  rm commands
+  258  rm -r commands
+  259  touch ghd
+  260  cd terminal
+  261  touch ghd.txt
+  262  touch ghd.pdf
+  263  nano ghd
+  264  cat ghd
+  265  cat ghd1
+  266  nano ghd2
+  267  cat ghd2
+  268  cp ghd2 ghd1
+  269  cat ghd1
+  270  cat ghd2
+  271  mv ghd2 ghd3
+  272  cat ghd3
+  273  cat ghd2
+  274  cp ghd3 ghd2
+  275  cat ghd2
+  276  cat ghd3
+  277  nano ghd4
+  278  mv ghd4 ghd2
+  279  cd ..
+  280  git clone  https://github.com/edurekavivekh/linux-content.git
+  281  cd linux-content
+  282  ls
+  283  ls -l
+  284  find . -name data*
+  285  find -name data*
+  286  find . -name 'data*'
+  287  touch data.txt data.pdf
+  288  find . -name data*
+  289  find . -name 'data*'
+  290  find . -size +5M
+  291  grep CAPTAIN data.csv
+  292  grep GM data.csv
+  293  grep -i captain data.csv
+  294  grep -r -i captain data.csv
+  295  grep -r CAPTAIN data.csv
+  296  env | grep -i java
+  297  env | -i user
+  298  env | grep -i user
+  299  env | grep -i $user
+  300  echo USERNAME
+  301  echo -i username
+  302  echo $USERNAME
+  303  echo $HOME
+  304  grep -v -i captain data.csv
+  305  ls | grep -v -i gm data.csv
+  306  ls ~
+  307  ls /
+  308  ls -a /
+  309  history
+  310  history 76
+  311  history 78
+  312  cd ..
+  313  history 80 > linuxcommands
